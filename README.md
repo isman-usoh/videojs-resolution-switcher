@@ -1,3 +1,6 @@
+## Fork [BaNru/videojs-resolution-switcher](https://github.com/BaNru/videojs-resolution-switcher)
+
+
 # Video.js Resolution Switcher [![Build Status](https://travis-ci.org/kmoskwiak/videojs-resolution-switcher.svg?branch=master)](https://travis-ci.org/kmoskwiak/videojs-resolution-switcher) 
 
 Resolution switcher for [video.js v5](https://github.com/videojs/video.js)
@@ -12,12 +15,12 @@ Install plugin with
 
 **npm**
 ```
-npm i videojs-resolution-switcher
+npm i @isman/videojs-resolution-switcher
 ```
 
 or **bower**
 ```
-bower install videojs-resolution-switcher
+bower install @isman/videojs-resolution-switcher
 ```
 
 
